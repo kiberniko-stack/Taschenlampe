@@ -1,0 +1,24 @@
+{
+  "name": "Taschenlampe",
+  "short_name": "Taschenlampe",
+  "description": "Einfache Taschenlampen-App",
+  "start_url": "/Taschenlampe/",
+  "display": "standalone",
+  "background_color": "#1e3c72",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/Taschenlampe/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Taschenlampe/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
